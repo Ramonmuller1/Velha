@@ -19,9 +19,6 @@ for(let i = 0; i < tabuleiro.length;i++){
     }
 }
 
-div = document.createElement('div.jogoInteiro')
-document.body.append(div);
-
 
 let h1 = document.createElement('h1')
 h1.setAttribute('id', 'resultado')
